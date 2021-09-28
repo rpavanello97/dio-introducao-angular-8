@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+course-mananger/dist
+course-mananger/tmp
+course-mananger/out-tsc
+# Only exists if Bazel was run
+course-mananger/bazel-out
+
+# dependencies
+course-mananger/node_modules
+
+# profiling files
+course-mananger/chrome-profiler-events*.json
+
+# IDEs and editors
+course-mananger/.idea
+course-mananger/.project
+course-mananger/.classpath
+course-mananger/.c9/
+course-mananger/*.launch
+course-mananger/.settings/
+course-mananger/*.sublime-workspace
+
+# IDE - VSCode
+course-mananger/.vscode/*
+course-mananger/!.vscode/settings.json
+course-mananger/!.vscode/tasks.json
+course-mananger/!.vscode/launch.json
+course-mananger/!.vscode/extensions.json
+course-mananger/.history/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+course-mananger/npm-debug.log
+course-mananger/yarn-error.log
+course-mananger/testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
