@@ -14,9 +14,9 @@
     2) node serve.js
 
 
-declarations
-    ReplacePipe,
-    AppStar
-imports
-    FormsModule,
-    BrowserModule
+Create folder 
+    'shared'
+    'component'
+    'pipe'
+
+Star inside the folder
