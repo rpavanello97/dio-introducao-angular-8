@@ -14,9 +14,7 @@
     2) node serve.js
 
 
-Create folder 
-    'shared'
-    'component'
-    'pipe'
-
-Star inside the folder
+Core
+    Component
+        Nav-bar
+    core.module.ts
