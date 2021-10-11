@@ -12,3 +12,11 @@
     Install node server on other directory "course-mananger-server"
     1) npm install
     2) node serve.js
+
+
+declarations
+    ReplacePipe,
+    AppStar
+imports
+    FormsModule,
+    BrowserModule
