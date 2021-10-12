@@ -2,6 +2,8 @@
 
 ### This repository was created during the Angular 8 introdution on Digital Innotavation One.
 
+### Demonstration
+![course-mananger](https://user-images.githubusercontent.com/53226501/136870143-2a10c3a1-d1e5-4cef-b29c-5ea82a391a93.gif)
  <br>
 
 ### Tecnologies used during development:
@@ -28,8 +30,5 @@
     Install node server on other directory "course-mananger-server"
     1) npm install
     2) node serve.js
-
-### Demonstration
-![course-mananger](https://user-images.githubusercontent.com/53226501/136870143-2a10c3a1-d1e5-4cef-b29c-5ea82a391a93.gif)
 
 © R B  Pavanello.
